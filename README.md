@@ -1,6 +1,6 @@
 <h1>Logan Brown</h1>
 
-<p>Hey there, I'm first-year student at University of Central Florida, studying Computer Science. I'm a full stack web developer with a preference for backend, and a specialization in Python. In my free time outside of programming, I volunteer or work as technical staff or stage management for theatrical productions.</p>
+<p>Hey there, I'm second-year student at University of Central Florida, studying Computer Science. I'm a full stack web developer with a preference for backend, and a specialization in Python. In my free time outside of programming, I work in training and assessment at my University's tutoring services.</p>
 
 <h2>Projects</h2>
 
